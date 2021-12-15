@@ -10,8 +10,8 @@ char auth[] = "w3mbEEzLZjdCMWqPLH_ie4KZIuhKC3jZ";
 dht DHT;
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "vivo 1726";
-char pass[] = "123456789";
+char ssid[] = "IoT";
+char pass[] = "Iot@1234";
 int Temperature;
 int Humidity;
 void setup()
